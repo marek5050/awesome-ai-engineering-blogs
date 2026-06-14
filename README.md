@@ -1,13 +1,13 @@
-# Awesome ML Blogs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome AI Engineering Blogs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of machine learning and AI blogs worth following — from research labs, companies
-shipping ML in production, and individual researchers and engineers. Inspired by
+A curated list of AI engineering blogs worth following — from research labs, companies shipping
+AI in production, and individual researchers and engineers. Inspired by
 [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs).
 
 Every entry includes an RSS / Atom feed, and the whole list is bundled as an OPML file you can
 import into your reader of choice:
 
-- [`ml_blogs.opml`](./ml_blogs.opml) — drop into Feedly, Inoreader, NetNewsWire, Miniflux, etc.
+- [`ai_engineering_blogs.opml`](./ai_engineering_blogs.opml) — drop into Feedly, Inoreader, NetNewsWire, Miniflux, etc.
 
 Contributions welcome — see [CONTRIBUTING.md](./CONTRIBUTING.md).
 

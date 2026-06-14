@@ -8,7 +8,7 @@ Thanks for helping curate this list! A few quick guidelines:
 2. The blog should publish **substantive ML / AI content** — research notes, engineering deep-dives,
    model cards, applied case studies. Marketing-only blogs will be rejected.
 3. Add the blog in **alphabetical order** within its category in `README.md`.
-4. Add the same blog to `ml_blogs.opml` so RSS aggregators pick it up.
+4. Add the same blog to `ai_engineering_blogs.opml` so RSS aggregators pick it up.
 5. Prefer the canonical feed URL (e.g. `https://example.com/feed.xml`) over a third-party mirror.
 
 ## Format
@@ -19,7 +19,7 @@ In `README.md`:
 - [Blog Name](https://blog.example.com/) — one-line description ([RSS](https://blog.example.com/feed.xml))
 ```
 
-In `ml_blogs.opml`:
+In `ai_engineering_blogs.opml`:
 
 ```xml
 <outline type="rss" text="Blog Name" title="Blog Name"
