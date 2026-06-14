@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meta AI</title>
+    <link>https://ai.meta.com/blog/</link>
+    <description>Posts from the Meta AI blog.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jun 2026 12:44:14 +0000</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/marek5050/awesome-ai-engineering-blogs/main/feeds/meta-ai.xml" rel="self" type="application/rss+xml" />
+    <generator>awesome-ai-engineering-blogs</generator>
+    <item>
+      <title>Introducing Muse Spark: Scaling Towards Personal Superintelligence</title>
+      <link>https://ai.meta.com/blog/introducing-muse-spark-msl/</link>
+      <guid isPermaLink="true">https://ai.meta.com/blog/introducing-muse-spark-msl/</guid>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scaling How We Build and Test Our Most Advanced AI</title>
+      <link>https://ai.meta.com/blog/scaling-how-we-build-test-advanced-ai/</link>
+      <guid isPermaLink="true">https://ai.meta.com/blog/scaling-how-we-build-test-advanced-ai/</guid>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Alta Daily Uses Meta’s Segment Anything to Reimagine the Digital Closet</title>
+      <link>https://ai.meta.com/blog/alta-daily-fashion-app-segment-anything/</link>
+      <guid isPermaLink="true">https://ai.meta.com/blog/alta-daily-fashion-app-segment-anything/</guid>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SAM 3.1: Faster and More Accessible Real-Time Video Detection and Tracking With Multiplexing and Global Reasoning</title>
+      <link>https://ai.meta.com/blog/segment-anything-model-3/</link>
+      <guid isPermaLink="true">https://ai.meta.com/blog/segment-anything-model-3/</guid>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing TRIBE v2: A Predictive Foundation Model Trained to Understand How the Human Brain Processes Complex Stimuli</title>
+      <link>https://ai.meta.com/blog/tribe-v2-brain-predictive-foundation-model/</link>
+      <guid isPermaLink="true">https://ai.meta.com/blog/tribe-v2-brain-predictive-foundation-model/</guid>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Research</category>
+    </item>
+    <item>
+      <title>Four MTIA Chips in Two Years: Scaling AI Experiences for Billions</title>
+      <link>https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/</link>
+      <guid isPermaLink="true">https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/</guid>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mapping the World's Forests with Greater Precision: Introducing Canopy Height Maps v2</title>
+      <link>https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/</link>
+      <guid isPermaLink="true">https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/</guid>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Open Source</category>
+      <description>In partnership with the World Resources Institute, today we’re announcing Canopy Height Maps v2 (CHMv2), an open source model, along with world-scale maps generated with the model.</description>
+    </item>
+    <item>
+      <title>Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO</title>
+      <link>https://ai.meta.com/blog/forest-research-dino/</link>
+      <guid isPermaLink="true">https://ai.meta.com/blog/forest-research-dino/</guid>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Computer Vision</category>
+      <description>Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase access to greenspaces.</description>
+    </item>
+    <item>
+      <title>How DINO and SAM are Helping Modernize Essential Medical Triage Practices</title>
+      <link>https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/</link>
+      <guid isPermaLink="true">https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/</guid>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+      <category>Computer Vision</category>
+      <description>By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.</description>
+    </item>
+    <item>
+      <title>The Universities Space Research Association Applies Segment Anything Model for Responding to Flood Emergencies</title>
+      <link>https://ai.meta.com/blog/usra-sam-flood-emergencies/</link>
+      <guid isPermaLink="true">https://ai.meta.com/blog/usra-sam-flood-emergencies/</guid>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+      <category>Computer Vision</category>
+      <description>The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.</description>
+    </item>
+    <item>
+      <title>Introducing SAM Audio: The First Unified Multimodal Model for Audio Separation</title>
+      <link>https://ai.meta.com/blog/sam-audio/</link>
+      <guid isPermaLink="true">https://ai.meta.com/blog/sam-audio/</guid>
+      <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
+      <category>Computer Vision</category>
+      <description>SAM Audio transforms audio processing by making it easy to isolate any sound from complex audio mixtures using natural, multimodal prompts — whether through text, visual cues, or marking time segments.</description>
+    </item>
+    <item>
+      <title>How Orakl Oncology is using DINOv2 to accelerate cancer treatment discovery</title>
+      <link>https://ai.meta.com/blog/orakl-oncology-dinov2-accelerating-cancer-treatment/</link>
+      <guid isPermaLink="true">https://ai.meta.com/blog/orakl-oncology-dinov2-accelerating-cancer-treatment/</guid>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+      <category>Open Source</category>
+      <description>Orakl Oncology aims to accelerate cancer research and drug development by combining experimental, lab-based insights and machine learning.</description>
+    </item>
+  </channel>
+</rss>

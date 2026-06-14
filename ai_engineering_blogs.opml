@@ -8,7 +8,7 @@
       <outline type="rss" text="Anthropic Research" title="Anthropic Research" xmlUrl="https://raw.githubusercontent.com/marek5050/awesome-ai-engineering-blogs/main/feeds/anthropic-research.xml" htmlUrl="https://www.anthropic.com/research"/>
       <outline type="rss" text="DeepMind" title="DeepMind" xmlUrl="https://deepmind.google/blog/rss.xml" htmlUrl="https://deepmind.google/discover/blog/"/>
       <outline type="rss" text="Google Research" title="Google Research" xmlUrl="https://research.google/blog/rss/" htmlUrl="https://research.google/blog/"/>
-      <outline type="rss" text="Meta AI" title="Meta AI" xmlUrl="https://ai.meta.com/blog/rss/" htmlUrl="https://ai.meta.com/blog/"/>
+      <outline type="rss" text="Meta AI" title="Meta AI" xmlUrl="https://raw.githubusercontent.com/marek5050/awesome-ai-engineering-blogs/main/feeds/meta-ai.xml" htmlUrl="https://ai.meta.com/blog/"/>
       <outline type="rss" text="Microsoft Research" title="Microsoft Research" xmlUrl="https://www.microsoft.com/en-us/research/feed/" htmlUrl="https://www.microsoft.com/en-us/research/blog/"/>
       <outline type="rss" text="OpenAI" title="OpenAI" xmlUrl="https://openai.com/news/rss.xml" htmlUrl="https://openai.com/news"/>
       <outline type="rss" text="Allen Institute for AI" title="Allen Institute for AI" xmlUrl="https://allenai.org/rss.xml" htmlUrl="https://allenai.org/blog"/>
