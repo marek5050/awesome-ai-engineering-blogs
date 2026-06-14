@@ -12,11 +12,29 @@
       <outline type="rss" text="Microsoft Research" title="Microsoft Research" xmlUrl="https://www.microsoft.com/en-us/research/feed/" htmlUrl="https://www.microsoft.com/en-us/research/blog/"/>
       <outline type="rss" text="OpenAI" title="OpenAI" xmlUrl="https://openai.com/news/rss.xml" htmlUrl="https://openai.com/news"/>
       <outline type="rss" text="Allen Institute for AI" title="Allen Institute for AI" xmlUrl="https://allenai.org/rss.xml" htmlUrl="https://allenai.org/blog"/>
+      <outline type="rss" text="Google AI Blog" title="Google AI Blog" xmlUrl="https://blog.google/technology/ai/rss/" htmlUrl="https://blog.google/technology/ai/"/>
     </outline>
     <outline text="AI Companies" title="AI Companies">
       <outline type="rss" text="Cohere" title="Cohere" xmlUrl="https://cohere.com/blog/rss.xml" htmlUrl="https://cohere.com/blog"/>
       <outline type="rss" text="Hugging Face" title="Hugging Face" xmlUrl="https://huggingface.co/blog/feed.xml" htmlUrl="https://huggingface.co/blog"/>
       <outline type="rss" text="Mistral AI" title="Mistral AI" xmlUrl="https://mistral.ai/rss.xml" htmlUrl="https://mistral.ai/news/"/>
+      <outline type="rss" text="Stability AI" title="Stability AI" xmlUrl="https://stability.ai/news?format=rss" htmlUrl="https://stability.ai/news"/>
+      <outline type="rss" text="Synced (Jiqizhixin)" title="Synced (Jiqizhixin)" xmlUrl="https://www.jiqizhixin.com/rss" htmlUrl="https://www.jiqizhixin.com/"/>
+    </outline>
+    <outline text="AI Coding &amp; Agent Tools" title="AI Coding &amp; Agent Tools">
+      <outline type="rss" text="Claude Code Releases" title="Claude Code Releases" xmlUrl="https://github.com/anthropics/claude-code/releases.atom" htmlUrl="https://github.com/anthropics/claude-code/releases"/>
+      <outline type="rss" text="OpenAI Codex Releases" title="OpenAI Codex Releases" xmlUrl="https://github.com/openai/codex/releases.atom" htmlUrl="https://github.com/openai/codex/releases"/>
+      <outline type="rss" text="Gemini CLI Releases" title="Gemini CLI Releases" xmlUrl="https://github.com/google-gemini/gemini-cli/releases.atom" htmlUrl="https://github.com/google-gemini/gemini-cli/releases"/>
+      <outline type="rss" text="MCP Specification Releases" title="MCP Specification Releases" xmlUrl="https://github.com/modelcontextprotocol/specification/releases.atom" htmlUrl="https://github.com/modelcontextprotocol/specification/releases"/>
+      <outline type="rss" text="MCP Servers Releases" title="MCP Servers Releases" xmlUrl="https://github.com/modelcontextprotocol/servers/releases.atom" htmlUrl="https://github.com/modelcontextprotocol/servers/releases"/>
+      <outline type="rss" text="LangChain Releases" title="LangChain Releases" xmlUrl="https://github.com/langchain-ai/langchain/releases.atom" htmlUrl="https://github.com/langchain-ai/langchain/releases"/>
+    </outline>
+    <outline text="AI Papers &amp; Aggregators" title="AI Papers &amp; Aggregators">
+      <outline type="rss" text="arXiv cs.AI" title="arXiv cs.AI" xmlUrl="https://rss.arxiv.org/rss/cs.AI" htmlUrl="https://arxiv.org/list/cs.AI/recent"/>
+      <outline type="rss" text="arXiv cs.LG (Machine Learning)" title="arXiv cs.LG (Machine Learning)" xmlUrl="https://rss.arxiv.org/rss/cs.LG" htmlUrl="https://arxiv.org/list/cs.LG/recent"/>
+      <outline type="rss" text="arXiv cs.CL (NLP)" title="arXiv cs.CL (NLP)" xmlUrl="https://rss.arxiv.org/rss/cs.CL" htmlUrl="https://arxiv.org/list/cs.CL/recent"/>
+      <outline type="rss" text="Hacker News - AI" title="Hacker News - AI" xmlUrl="https://hnrss.org/newest?q=AI" htmlUrl="https://news.ycombinator.com/"/>
+      <outline type="rss" text="Hacker News - LLM" title="Hacker News - LLM" xmlUrl="https://hnrss.org/newest?q=LLM" htmlUrl="https://news.ycombinator.com/"/>
     </outline>
     <outline text="Big Tech ML" title="Big Tech ML">
       <outline type="rss" text="Amazon Science" title="Amazon Science" xmlUrl="https://www.amazon.science/index.rss" htmlUrl="https://www.amazon.science/blog"/>
@@ -66,6 +84,19 @@
       <outline type="rss" text="Latent Space" title="Latent Space" xmlUrl="https://www.latent.space/feed" htmlUrl="https://www.latent.space/"/>
       <outline type="rss" text="The Batch" title="The Batch" xmlUrl="https://www.deeplearning.ai/the-batch/feed/" htmlUrl="https://www.deeplearning.ai/the-batch/"/>
       <outline type="rss" text="The Gradient" title="The Gradient" xmlUrl="https://thegradient.pub/rss/" htmlUrl="https://thegradient.pub/"/>
+    </outline>
+    <outline text="Big Tech Engineering Blogs" title="Big Tech Engineering Blogs">
+      <outline type="rss" text="GitHub Blog" title="GitHub Blog" xmlUrl="https://github.blog/feed/" htmlUrl="https://github.blog/"/>
+      <outline type="rss" text="GitHub Changelog" title="GitHub Changelog" xmlUrl="https://github.blog/changelog/feed/" htmlUrl="https://github.blog/changelog/"/>
+      <outline type="rss" text="GitHub Copilot Changelog" title="GitHub Copilot Changelog" xmlUrl="https://github.blog/changelog/label/copilot/feed/" htmlUrl="https://github.blog/changelog/label/copilot/"/>
+      <outline type="rss" text="AWS Blog" title="AWS Blog" xmlUrl="https://aws.amazon.com/blogs/aws/feed/" htmlUrl="https://aws.amazon.com/blogs/aws/"/>
+      <outline type="rss" text="Cloudflare Blog" title="Cloudflare Blog" xmlUrl="https://blog.cloudflare.com/rss/" htmlUrl="https://blog.cloudflare.com/"/>
+      <outline type="rss" text="Google Developers" title="Google Developers" xmlUrl="https://developers.googleblog.com/feeds/posts/default/" htmlUrl="https://developers.googleblog.com/"/>
+      <outline type="rss" text="Mozilla Hacks" title="Mozilla Hacks" xmlUrl="https://hacks.mozilla.org/feed/" htmlUrl="https://hacks.mozilla.org/"/>
+      <outline type="rss" text="Vercel Blog" title="Vercel Blog" xmlUrl="https://vercel.com/atom" htmlUrl="https://vercel.com/blog"/>
+      <outline type="rss" text="Supabase Blog" title="Supabase Blog" xmlUrl="https://supabase.com/rss.xml" htmlUrl="https://supabase.com/blog"/>
+      <outline type="rss" text="Stripe Blog" title="Stripe Blog" xmlUrl="https://stripe.com/blog/feed.rss" htmlUrl="https://stripe.com/blog"/>
+      <outline type="rss" text="Netflix Tech Blog (Official)" title="Netflix Tech Blog (Official)" xmlUrl="https://netflixtechblog.com/feed" htmlUrl="https://netflixtechblog.com/"/>
     </outline>
     <outline text="Academic" title="Academic">
       <outline type="rss" text="BAIR Blog" title="BAIR Blog" xmlUrl="https://bair.berkeley.edu/blog/feed.xml" htmlUrl="https://bair.berkeley.edu/blog/"/>
