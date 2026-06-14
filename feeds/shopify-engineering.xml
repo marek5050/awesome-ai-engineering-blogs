@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shopify Engineering</title>
+    <link>https://shopify.engineering/authors/shopify-engineering</link>
+    <description>Posts authored by Shopify Engineering on shopify.engineering.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jun 2026 12:50:12 +0000</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/marek5050/awesome-ai-engineering-blogs/main/feeds/shopify-engineering.xml" rel="self" type="application/rss+xml" />
+    <generator>awesome-ai-engineering-blogs</generator>
+    <item>
+      <title>Quick: An internal hosting platform for the AI era</title>
+      <link>https://shopify.engineering/quick</link>
+      <guid isPermaLink="true">https://shopify.engineering/quick</guid>
+      <pubDate>Wed, 10 Jun 2026 12:49:23 +0000</pubDate>
+      <description>Quick lets anyone at Shopify ship a site in seconds. It has changed the culture of how we build and share.</description>
+    </item>
+    <item>
+      <title>Under the River</title>
+      <link>https://shopify.engineering/under-the-river</link>
+      <guid isPermaLink="true">https://shopify.engineering/under-the-river</guid>
+      <pubDate>Thu, 28 May 2026 12:30:02 +0000</pubDate>
+      <description>What it took to ship our Slack-native agent River, lessons learned, and the substrate that runs beneath it. Co-authored by River.</description>
+    </item>
+    <item>
+      <title>We replaced Redis with MySQL for inventory reservations—and it scaled</title>
+      <link>https://shopify.engineering/scaling-inventory-reservations</link>
+      <guid isPermaLink="true">https://shopify.engineering/scaling-inventory-reservations</guid>
+      <pubDate>Tue, 12 May 2026 16:51:53 +0000</pubDate>
+      <description>How we used SKIP LOCKED, composite primary keys, and connection visibility to hit our scale targets.</description>
+    </item>
+    <item>
+      <title>Flow generation through natural language: An agentic modeling approach</title>
+      <link>https://shopify.engineering/fine-tuning-agent-shopify-flow</link>
+      <guid isPermaLink="true">https://shopify.engineering/fine-tuning-agent-shopify-flow</guid>
+      <pubDate>Wed, 22 Apr 2026 12:32:02 +0000</pubDate>
+      <description>We fine-tuned Qwen3-32B into a tool-calling agent that generates Flow automations from natural language—faster, cheaper, and more accurate than the frontier model it replaced, with a weekly retraining flywheel built on real merchant data.</description>
+    </item>
+    <item>
+      <title>Autoresearch isn’t just for training models</title>
+      <link>https://shopify.engineering/autoresearch</link>
+      <guid isPermaLink="true">https://shopify.engineering/autoresearch</guid>
+      <pubDate>Wed, 15 Apr 2026 16:19:20 +0000</pubDate>
+      <description>Tobi and I generalized Karpathy’s Autoresearch to improve 40+ metrics across Shopify, then we open-sourced our project.</description>
+    </item>
+    <item>
+      <title>Building a Magic Mirror: AI retail experiences with Remix</title>
+      <link>https://shopify.engineering/magic-mirror</link>
+      <guid isPermaLink="true">https://shopify.engineering/magic-mirror</guid>
+      <pubDate>Thu, 19 Mar 2026 12:33:46 +0000</pubDate>
+      <description>The technical blueprint for an AI-powered mirror that sees customers, analyzes their appearance, and delivers personalized product recommendations in real-time.</description>
+    </item>
+    <item>
+      <title>Shopify’s journey to faster breadth-first GraphQL execution</title>
+      <link>https://shopify.engineering/faster-breadth-first-graphql-execution</link>
+      <guid isPermaLink="true">https://shopify.engineering/faster-breadth-first-graphql-execution</guid>
+      <pubDate>Thu, 12 Mar 2026 12:19:08 +0000</pubDate>
+      <description>Conventional GraphQL execution uses depth-first traversal that incurs many hidden costs. We questioned why, rewrote it in a faster breadth-first manner, and saw dramatic results.</description>
+    </item>
+    <item>
+      <title>2,000 robots walk into a shop...</title>
+      <link>https://shopify.engineering/simgym</link>
+      <guid isPermaLink="true">https://shopify.engineering/simgym</guid>
+      <pubDate>Fri, 27 Feb 2026 18:11:45 +0000</pubDate>
+      <description>SimGym infrastructure for synthetic customers at scale. A Shopify + NVIDIA collaboration.</description>
+    </item>
+    <item>
+      <title>The generative recommender behind Shopify's commerce engine</title>
+      <link>https://shopify.engineering/generative-recommendations</link>
+      <guid isPermaLink="true">https://shopify.engineering/generative-recommendations</guid>
+      <pubDate>Wed, 25 Feb 2026 16:04:54 +0000</pubDate>
+      <description>Treating buyer journeys as sequences instead of simplified signals, and building a model fast enough to serve at scale.</description>
+    </item>
+    <item>
+      <title>SkyPilot at Shopify: Multi-cloud GPUs without the pain</title>
+      <link>https://shopify.engineering/skypilot</link>
+      <guid isPermaLink="true">https://shopify.engineering/skypilot</guid>
+      <pubDate>Mon, 26 Jan 2026 14:49:55 +0000</pubDate>
+      <description>GPUs are annoying. Shopify uses SkyPilot to make them less so: one YAML file, multiple clouds, clean development ergonomics.</description>
+    </item>
+    <item>
+      <title>Building the Universal Commerce Protocol</title>
+      <link>https://shopify.engineering/ucp</link>
+      <guid isPermaLink="true">https://shopify.engineering/ucp</guid>
+      <pubDate>Sun, 11 Jan 2026 14:17:01 +0000</pubDate>
+      <description>We built UCP to power agentic commerce. Here's the architecture behind it.</description>
+    </item>
+    <item>
+      <title>Tangle: An open-source ML experimentation platform built at Shopify scale</title>
+      <link>https://shopify.engineering/tangle</link>
+      <guid isPermaLink="true">https://shopify.engineering/tangle</guid>
+      <pubDate>Fri, 05 Dec 2025 15:47:00 +0000</pubDate>
+      <description>Tangle saves months of compute time, makes every experiment automatically reproducible, and allows teammates to share computation without coordination.</description>
+    </item>
+    <item>
+      <title>Behind the build: 2025's BFCM globe in a pinball machine 🌎🕹️</title>
+      <link>https://shopify.engineering/2025-bfcm-live-globe</link>
+      <guid isPermaLink="true">https://shopify.engineering/2025-bfcm-live-globe</guid>
+      <pubDate>Wed, 03 Dec 2025 14:28:24 +0000</pubDate>
+      <description>Real-time merchant sales rendered on our globe, Easter eggs galore, and a pinball machine because... why not?</description>
+    </item>
+    <item>
+      <title>Run for your money: Engineering a treadmill that prints store credit</title>
+      <link>https://shopify.engineering/how-we-built-a-gamified-treadmill</link>
+      <guid isPermaLink="true">https://shopify.engineering/how-we-built-a-gamified-treadmill</guid>
+      <pubDate>Tue, 25 Nov 2025 13:31:13 +0000</pubDate>
+      <description>We combined FTMS sensors, Socket.IO, and POS UI extensions to turn a manual treadmill into a discount-printing machine.</description>
+    </item>
+    <item>
+      <title>How we prepare Shopify for BFCM</title>
+      <link>https://shopify.engineering/bfcm-readiness-2025</link>
+      <guid isPermaLink="true">https://shopify.engineering/bfcm-readiness-2025</guid>
+      <pubDate>Thu, 20 Nov 2025 14:40:48 +0000</pubDate>
+      <description>From March to October we simulated traffic tsunamis, injected chaos, and fixed every bottleneck before our merchants needed us most.</description>
+    </item>
+    <item>
+      <title>Building world-class product search at Shopify: Where C++ excellence meets ML innovation</title>
+      <link>https://shopify.engineering/world-class-product-search</link>
+      <guid isPermaLink="true">https://shopify.engineering/world-class-product-search</guid>
+      <pubDate>Wed, 12 Nov 2025 16:21:44 +0000</pubDate>
+      <description>Learn how we solved a major search engineering dilemma—running machine learning models at native C++ speed.</description>
+    </item>
+    <item>
+      <title>Beyond classification: How AI agents are evolving Shopify's product taxonomy at scale</title>
+      <link>https://shopify.engineering/product-taxonomy-at-scale</link>
+      <guid isPermaLink="true">https://shopify.engineering/product-taxonomy-at-scale</guid>
+      <pubDate>Thu, 09 Oct 2025 05:18:20 +0000</pubDate>
+      <description>Last year, over 875 million people bought items from Shopify merchants. Building on our prior Vision Language Model-based product classification, this post explores how AI agents are evolving the taxonomy itself.</description>
+    </item>
+    <item>
+      <title>Migrating to React Native's New Architecture</title>
+      <link>https://shopify.engineering/react-native-new-architecture</link>
+      <guid isPermaLink="true">https://shopify.engineering/react-native-new-architecture</guid>
+      <pubDate>Fri, 05 Sep 2025 20:26:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building production-ready agentic systems: Lessons from Shopify Sidekick</title>
+      <link>https://shopify.engineering/building-production-ready-agentic-systems</link>
+      <guid isPermaLink="true">https://shopify.engineering/building-production-ready-agentic-systems</guid>
+      <pubDate>Tue, 26 Aug 2025 10:00:00 +0000</pubDate>
+      <description>Learn how we evolved our AI assistant architecture and built robust evaluation frameworks for real-world deployment.</description>
+    </item>
+    <item>
+      <title>MCP UI: Breaking the text wall with interactive components</title>
+      <link>https://shopify.engineering/mcp-ui-breaking-the-text-wall</link>
+      <guid isPermaLink="true">https://shopify.engineering/mcp-ui-breaking-the-text-wall</guid>
+      <pubDate>Tue, 05 Aug 2025 17:21:27 +0000</pubDate>
+      <description>MCP UI extends the Model Context Protocol to enable AI agents to return fully interactive UI components. It solves the critical challenge that commerce experiences require visual and interactive elements like product selectors, image galleries, and cart flows. This open-source protocol allows agents to embed commerce components while maintaining control through an intent-based messaging system, delivering shopping experiences that go far beyond traditional text-only AI interactions.</description>
+    </item>
+    <item>
+      <title>FlashList v2: A ground-up rewrite for React Native's New Architecture</title>
+      <link>https://shopify.engineering/flashlist-v2</link>
+      <guid isPermaLink="true">https://shopify.engineering/flashlist-v2</guid>
+      <pubDate>Thu, 31 Jul 2025 18:32:29 +0000</pubDate>
+      <description>FlashList v2 is a complete rewrite, delivering faster load times, improved scrolling performance, and precise rendering without requiring item size estimates. It powers thousands of lists in the Shopify mobile app and is now production-ready.</description>
+    </item>
+    <item>
+      <title>Leveraging multimodal LLMs for Shopify’s global catalogue: Recap of expo talk at ICLR 2025</title>
+      <link>https://shopify.engineering/leveraging-multimodal-llms</link>
+      <guid isPermaLink="true">https://shopify.engineering/leveraging-multimodal-llms</guid>
+      <pubDate>Wed, 16 Jul 2025 14:43:31 +0000</pubDate>
+      <description>Our Global Catalogue demonstrates the impact of multimodal LLMs on one of commerce’s hardest problems: building a unified, structured, and continuously evolving understanding of billions of product listings created by millions of merchants.</description>
+    </item>
+    <item>
+      <title>Augmented commerce: Machine learning at Shopify</title>
+      <link>https://shopify.engineering/machine-learning-at-shopify</link>
+      <guid isPermaLink="true">https://shopify.engineering/machine-learning-at-shopify</guid>
+      <pubDate>Fri, 04 Jul 2025 13:36:30 +0000</pubDate>
+      <description>Commerce is a dynamic ecosystem where our mission is to empower every merchant to succeed. We optimize each step of their journey—from product creation to customer delivery—using advanced tools, infrastructure, and partnerships to solve a complex optimization challenge.</description>
+    </item>
+    <item>
+      <title>Remixing Shopify's Admin: How We Made It 30% Faster and AI-Ready</title>
+      <link>https://shopify.engineering/remixing-admin</link>
+      <guid isPermaLink="true">https://shopify.engineering/remixing-admin</guid>
+      <pubDate>Mon, 30 Jun 2025 18:09:52 +0000</pubDate>
+      <description>Learn how we just made Shopify's Admin 30% faster while setting it up for AI superpowers. We overhauled admin.shopify.com, transforming the system that supports 67 million daily page views and empowers merchants in managing their businesses.</description>
+    </item>
+    <item>
+      <title>The Future of React Native Graphics: WebGPU, Skia, and Beyond</title>
+      <link>https://shopify.engineering/webgpu-skia-web-graphics</link>
+      <guid isPermaLink="true">https://shopify.engineering/webgpu-skia-web-graphics</guid>
+      <pubDate>Fri, 20 Jun 2025 15:37:49 +0000</pubDate>
+      <description>WebGPU is revolutionizing React Native graphics by enabling a unified backend architecture, leveraging web ecosystem giants like Three.js for 3D experiences, and facilitating general-purpose GPU computing for tasks like machine learning. This has directly led to significant performance enhancements and expanded platform support for React Native Skia, with the upcoming Skia Graphite promising features like automatic threading and seamless 2D/3D composition.</description>
+    </item>
+    <item>
+      <title>Introducing Roast: Structured AI workflows made easy</title>
+      <link>https://shopify.engineering/introducing-roast</link>
+      <guid isPermaLink="true">https://shopify.engineering/introducing-roast</guid>
+      <pubDate>Wed, 18 Jun 2025 07:00:00 +0000</pubDate>
+      <description>Our Augmented Engineering DX team tackles developer productivity challenges like flaky tests and low test coverage using AI agents. We discovered breaking complex tasks into discrete steps was key to reliable AI performance, leading to the creation and open-sourcing of Roast, a tool designed to structure AI workflows effectively.</description>
+    </item>
+    <item>
+      <title>Introducing the commerce payments protocol</title>
+      <link>https://shopify.engineering/commerce-payments-protocol</link>
+      <guid isPermaLink="true">https://shopify.engineering/commerce-payments-protocol</guid>
+      <pubDate>Thu, 12 Jun 2025 18:38:14 +0000</pubDate>
+      <description>Learn how we partnered with Coinbase to bring payments onchain at scale with a new smart contract protocol to meet the complex requirements of commerce.</description>
+    </item>
+    <item>
+      <title>Resilient Import Maps - Better Theme Development and Beyond</title>
+      <link>https://shopify.engineering/resilient-import-maps</link>
+      <guid isPermaLink="true">https://shopify.engineering/resilient-import-maps</guid>
+      <pubDate>Wed, 28 May 2025 14:00:00 +0000</pubDate>
+      <description>Import maps are great for both performance and developer experience, but their original limitations made them hard to use, especially at Shopify’s scale. We stepped up and pushed changes across the HTML spec, Chromium and WebKit to fix these issues at the web platform level. Now, developers can interleave JavaScript modules and multiple import maps on their HTML pages without worrying about correctness issues.</description>
+    </item>
+    <item>
+      <title>Evolution of Product Classification at Shopify: From Categories to Comprehensive Product Understanding</title>
+      <link>https://shopify.engineering/evolution-product-classification</link>
+      <guid isPermaLink="true">https://shopify.engineering/evolution-product-classification</guid>
+      <pubDate>Thu, 08 May 2025 04:00:00 +0000</pubDate>
+      <description>Shopify’s product classification system has evolved from basic categorization to an AI-driven framework using Vision Language Models and the Shopify Product Taxonomy. It accurately classifies products, extracts attributes, and processes over 30 million predictions daily, improving search, discovery, trust, and efficiency for merchants and buyers.</description>
+    </item>
+    <item>
+      <title>Mobile Bridge: Making WebViews Feel Native</title>
+      <link>https://shopify.engineering/mobilebridge-native-webviews</link>
+      <guid isPermaLink="true">https://shopify.engineering/mobilebridge-native-webviews</guid>
+      <pubDate>Fri, 25 Apr 2025 14:12:00 +0000</pubDate>
+      <description>Learn how we tackled the main issues of traditional WebViews—performance, appearance, and integration—and how Mobile Bridge became a game-changer in our mobile development strategy, even allowing us to accelerate the migration to React Native.</description>
+    </item>
+    <item>
+      <title>Five years of React Native at Shopify</title>
+      <link>https://shopify.engineering/five-years-of-react-native-at-shopify</link>
+      <guid isPermaLink="true">https://shopify.engineering/five-years-of-react-native-at-shopify</guid>
+      <pubDate>Mon, 13 Jan 2025 23:20:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>How We Built the BFCM 2023 Globe</title>
+      <link>https://shopify.engineering/how-we-built-shopifys-bfcm-2023-globe</link>
+      <guid isPermaLink="true">https://shopify.engineering/how-we-built-shopifys-bfcm-2023-globe</guid>
+      <pubDate>Wed, 30 Oct 2024 19:03:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Shopify improved consumer search intent with real-time ML</title>
+      <link>https://shopify.engineering/how-shopify-improved-consumer-search-intent-with-real-time-ml</link>
+      <guid isPermaLink="true">https://shopify.engineering/how-shopify-improved-consumer-search-intent-with-real-time-ml</guid>
+      <pubDate>Fri, 18 Oct 2024 15:33:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tophat: Crafting a Delightful Mobile Developer Experience</title>
+      <link>https://shopify.engineering/shopify-tophat-mobile-developer-testing</link>
+      <guid isPermaLink="true">https://shopify.engineering/shopify-tophat-mobile-developer-testing</guid>
+      <pubDate>Fri, 23 Aug 2024 17:16:27 +0000</pubDate>
+      <description>Insight into how Shopify created a seamless one-click manual testing experience (known as "tophatting") for mobile applications by creating a macOS app.</description>
+    </item>
+    <item>
+      <title>Mitigating Deadlocks in high concurrency environments</title>
+      <link>https://shopify.engineering/mitigating-deadlocks-in-high-concurrency-environments</link>
+      <guid isPermaLink="true">https://shopify.engineering/mitigating-deadlocks-in-high-concurrency-environments</guid>
+      <pubDate>Wed, 14 Aug 2024 16:31:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Shipping support for module script integrity in Chrome &amp; Safari</title>
+      <link>https://shopify.engineering/shipping-support-for-module-script-integrity-in-chrome-safari</link>
+      <guid isPermaLink="true">https://shopify.engineering/shipping-support-for-module-script-integrity-in-chrome-safari</guid>
+      <pubDate>Fri, 02 Aug 2024 17:17:47 +0000</pubDate>
+      <description>How we shipped ES module integrity in browsers and made commerce and the web better for everyone!</description>
+    </item>
+    <item>
+      <title>Improving Shopify App’s Performance</title>
+      <link>https://shopify.engineering/improving-shopify-app-s-performance</link>
+      <guid isPermaLink="true">https://shopify.engineering/improving-shopify-app-s-performance</guid>
+      <pubDate>Tue, 05 Mar 2024 20:37:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Packwerk Retrospective</title>
+      <link>https://shopify.engineering/a-packwerk-retrospective</link>
+      <guid isPermaLink="true">https://shopify.engineering/a-packwerk-retrospective</guid>
+      <pubDate>Wed, 07 Feb 2024 21:40:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Horizontally scaling the Rails backend of Shop app with Vitess</title>
+      <link>https://shopify.engineering/horizontally-scaling-the-rails-backend-of-shop-app-with-vitess</link>
+      <guid isPermaLink="true">https://shopify.engineering/horizontally-scaling-the-rails-backend-of-shop-app-with-vitess</guid>
+      <pubDate>Wed, 17 Jan 2024 20:34:53 +0000</pubDate>
+      <description>Shop app horizontally scaled a Ruby on Rails app with Vitess. This blog describes Vitess and our detailed approach for introducing Vitess to a Rails app.</description>
+    </item>
+    <item>
+      <title>Getting Started with React Native Skia</title>
+      <link>https://shopify.engineering/getting-started-with-react-native-skia</link>
+      <guid isPermaLink="true">https://shopify.engineering/getting-started-with-react-native-skia</guid>
+      <pubDate>Mon, 04 Dec 2023 15:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Ruvy</title>
+      <link>https://shopify.engineering/introducing-ruvy</link>
+      <guid isPermaLink="true">https://shopify.engineering/introducing-ruvy</guid>
+      <pubDate>Wed, 18 Oct 2023 13:43:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building a ShopifyQL Code Editor</title>
+      <link>https://shopify.engineering/building-a-shopifyql-code-editor</link>
+      <guid isPermaLink="true">https://shopify.engineering/building-a-shopifyql-code-editor</guid>
+      <pubDate>Mon, 11 Sep 2023 14:02:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sidekick’s Improved Streaming Experience</title>
+      <link>https://shopify.engineering/sidekicks-improved-streaming</link>
+      <guid isPermaLink="true">https://shopify.engineering/sidekicks-improved-streaming</guid>
+      <pubDate>Tue, 01 Aug 2023 20:08:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Shopify’s platform is the Web platform</title>
+      <link>https://shopify.engineering/shopifys-platform-is-the-web-platform</link>
+      <guid isPermaLink="true">https://shopify.engineering/shopifys-platform-is-the-web-platform</guid>
+      <pubDate>Wed, 26 Jul 2023 15:51:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Contributing support for a Wasm instruction to Winch</title>
+      <link>https://shopify.engineering/contributing-support-for-a-wasm-instruction-to-winch</link>
+      <guid isPermaLink="true">https://shopify.engineering/contributing-support-for-a-wasm-instruction-to-winch</guid>
+      <pubDate>Tue, 18 Jul 2023 20:17:28 +0000</pubDate>
+      <description>Jeff Charles, a Senior Shopify Developer, shares key learnings from his successful pull request to Winch. The pull request aimed to add support for various WebAssembly instructions to Wasmtime's baseline (non-optimizing) compiler.</description>
+    </item>
+    <item>
+      <title>Creating a Flexible Order Routing System with Shopify Functions</title>
+      <link>https://shopify.engineering/creating-a-flexible-order-routing-system-with-shopify-functions</link>
+      <guid isPermaLink="true">https://shopify.engineering/creating-a-flexible-order-routing-system-with-shopify-functions</guid>
+      <pubDate>Thu, 13 Apr 2023 13:30:00 +0000</pubDate>
+      <description>In this article, I’ll cover how we added flexibility to our previous one-size-fits-all order routing system with the introduction of “routing rules”, and how we dogfooded our own Shopify Functions feature to give merchants the ability to create their own routing rules.</description>
+    </item>
+    <item>
+      <title>Adventures in Garbage Collection: Improving GC Performance in our Massive Monolith</title>
+      <link>https://shopify.engineering/adventures-in-garbage-collection</link>
+      <guid isPermaLink="true">https://shopify.engineering/adventures-in-garbage-collection</guid>
+      <pubDate>Thu, 06 Apr 2023 14:30:00 +0000</pubDate>
+      <description>At the beginning of this year, we ran several experiments aimed at reducing the latency impact of the Ruby garbage collector (GC) in Shopify's monolith. In this article, Jean talks about the changes we made to improve GC performance, and more importantly, how we got to these changes.</description>
+    </item>
+    <item>
+      <title>How Migrating from Vanilla Redux to Redux Toolkit Improved State Management in Shopify POS</title>
+      <link>https://shopify.engineering/react-redux-toolkit-migration</link>
+      <guid isPermaLink="true">https://shopify.engineering/react-redux-toolkit-migration</guid>
+      <pubDate>Fri, 31 Mar 2023 13:30:02 +0000</pubDate>
+      <description>A look at Shopify’s experience improving state management in the Shopify POS app by migrating from a Vanilla Redux codebase to Redux Toolkit one.</description>
+    </item>
+    <item>
+      <title>What Being a Staff Developer Means at Shopify</title>
+      <link>https://shopify.engineering/what-being-a-staff-developer-means-at-shopify</link>
+      <guid isPermaLink="true">https://shopify.engineering/what-being-a-staff-developer-means-at-shopify</guid>
+      <pubDate>Wed, 29 Mar 2023 14:00:01 +0000</pubDate>
+      <description>A staff developer is an adaptable engineering leader that's comfortable working with ambiguity.</description>
+    </item>
+    <item>
+      <title>Supporting Passkeys in Shop's Authentication Flows</title>
+      <link>https://shopify.engineering/supporting-passkeys-in-shop-authentication-flows</link>
+      <guid isPermaLink="true">https://shopify.engineering/supporting-passkeys-in-shop-authentication-flows</guid>
+      <pubDate>Fri, 24 Mar 2023 13:00:01 +0000</pubDate>
+      <description>Passkeys are a new login credential based on public-key cryptography that replace the need for username and password sign-ins.</description>
+    </item>
+  </channel>
+</rss>

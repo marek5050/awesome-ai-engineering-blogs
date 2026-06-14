@@ -34,6 +34,9 @@ jobs:
       - name: Build Meta AI feed
         run: python scripts/build_meta_ai_feed.py
 
+      - name: Build Shopify Engineering feed
+        run: python scripts/build_shopify_engineering_feed.py
+
       - name: Commit updated feeds
         run: |
           if [[ -z "$(git status --porcelain feeds/)" ]]; then
