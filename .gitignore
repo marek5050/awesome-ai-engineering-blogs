@@ -1,0 +1,17 @@
+# Editors / IDE
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+
+# Env
+.env
+.env.local
