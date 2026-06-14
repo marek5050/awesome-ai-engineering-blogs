@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anthropic Research</title>
+    <link>https://www.anthropic.com/research</link>
+    <description>Research posts and publications from Anthropic.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jun 2026 12:26:08 +0000</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/marek5050/awesome-ai-engineering-blogs/main/feeds/anthropic-research.xml" rel="self" type="application/rss+xml" />
+    <generator>awesome-ai-engineering-blogs</generator>
+    <item>
+      <title>Paving the way for agents in biology</title>
+      <link>https://www.anthropic.com/research/agents-in-biology</link>
+      <guid isPermaLink="true">https://www.anthropic.com/research/agents-in-biology</guid>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Science</category>
+    </item>
+    <item>
+      <title>Making Claude a chemist</title>
+      <link>https://www.anthropic.com/research/making-claude-a-chemist</link>
+      <guid isPermaLink="true">https://www.anthropic.com/research/making-claude-a-chemist</guid>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Science</category>
+    </item>
+    <item>
+      <title>What we learned mapping a year’s worth of AI-enabled cyber threats</title>
+      <link>https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack</link>
+      <guid isPermaLink="true">https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack</guid>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Policy</category>
+    </item>
+    <item>
+      <title>Coding agents in the social sciences</title>
+      <link>https://www.anthropic.com/research/coding-agents-social-sciences</link>
+      <guid isPermaLink="true">https://www.anthropic.com/research/coding-agents-social-sciences</guid>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <category>Economic Research</category>
+    </item>
+    <item>
+      <title>Project Glasswing: An initial update</title>
+      <link>https://www.anthropic.com/research/glasswing-initial-update</link>
+      <guid isPermaLink="true">https://www.anthropic.com/research/glasswing-initial-update</guid>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <category>Announcements</category>
+    </item>
+    <item>
+      <title>2028: Two scenarios for global AI leadership</title>
+      <link>https://www.anthropic.com/research/2028-ai-leadership</link>
+      <guid isPermaLink="true">https://www.anthropic.com/research/2028-ai-leadership</guid>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <category>Policy</category>
+    </item>
+    <item>
+      <title>Teaching Claude why</title>
+      <link>https://www.anthropic.com/research/teaching-claude-why</link>
+      <guid isPermaLink="true">https://www.anthropic.com/research/teaching-claude-why</guid>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <category>Alignment</category>
+      <description>New research on how we've reduced agentic misalignment.</description>
+    </item>
+    <item>
+      <title>Natural Language Autoencoders: Turning Claude’s thoughts into text</title>
+      <link>https://www.anthropic.com/research/natural-language-autoencoders</link>
+      <guid isPermaLink="true">https://www.anthropic.com/research/natural-language-autoencoders</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <category>Interpretability</category>
+      <description>AI models like Claude talk in words but think in numbers. In this study, we train Claude to translate its thoughts into human-readable text.</description>
+    </item>
+    <item>
+      <title>Donating our open-source alignment tool</title>
+      <link>https://www.anthropic.com/research/donating-open-source-petri</link>
+      <guid isPermaLink="true">https://www.anthropic.com/research/donating-open-source-petri</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <category>Alignment</category>
+    </item>
+    <item>
+      <title>Focus areas for The Anthropic Institute</title>
+      <link>https://www.anthropic.com/research/anthropic-institute-agenda</link>
+      <guid isPermaLink="true">https://www.anthropic.com/research/anthropic-institute-agenda</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <category>Policy</category>
+    </item>
+    <item>
+      <title>Project Deal</title>
+      <link>https://www.anthropic.com/features/project-deal</link>
+      <guid isPermaLink="true">https://www.anthropic.com/features/project-deal</guid>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+      <category>Research</category>
+      <description>We created a marketplace for employees in our San Francisco office, with one big twist. We tasked Claude with buying, selling and negotiating on our colleagues’ behalf.</description>
+    </item>
+    <item>
+      <title>What 81,000 people want from AI</title>
+      <link>https://www.anthropic.com/81k-interviews</link>
+      <guid isPermaLink="true">https://www.anthropic.com/81k-interviews</guid>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Societal Impacts</category>
+      <description>We invited Claude.ai users to share how they use AI, what they dream it could make possible, and what they fear it might do. Nearly 81,000 people participated—the largest and most multilingual qualitative study of its kind. Here's what we found.</description>
+    </item>
+    <item>
+      <title>Project Vend: Phase two</title>
+      <link>https://www.anthropic.com/research/project-vend-2</link>
+      <guid isPermaLink="true">https://www.anthropic.com/research/project-vend-2</guid>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+      <category>Policy</category>
+      <description>In June, we revealed that we’d set up a small shop in our San Francisco office lunchroom, run by an AI shopkeeper. It was part of Project Vend, a free-form experiment exploring how well AIs could do on complex, real-world tasks. How has Claude's business been since we last wrote?</description>
+    </item>
+  </channel>
+</rss>
