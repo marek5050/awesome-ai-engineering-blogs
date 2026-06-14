@@ -26,7 +26,7 @@ Contributions welcome — see [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ## Research Labs
 
-- [Anthropic Research](https://www.anthropic.com/research) — Safety, interpretability, RLHF, Claude ([RSS](https://www.anthropic.com/news/rss.xml))
+- [Anthropic Research](https://www.anthropic.com/research) — Safety, interpretability, RLHF, Claude ([RSS](https://raw.githubusercontent.com/marek5050/awesome-ai-engineering-blogs/main/feeds/anthropic-research.xml) — self-hosted, scraped from `/research`)
 - [DeepMind Blog](https://deepmind.google/discover/blog/) — Gemini, AlphaFold, RL research ([RSS](https://deepmind.google/blog/rss.xml))
 - [Google Research Blog](https://research.google/blog/) — Across the full Google Research portfolio ([RSS](https://research.google/blog/rss/))
 - [Meta AI Blog](https://ai.meta.com/blog/) — Llama, FAIR, multimodal ([RSS](https://ai.meta.com/blog/rss/))

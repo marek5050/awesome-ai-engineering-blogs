@@ -5,18 +5,18 @@
   </head>
   <body>
     <outline text="Research Labs" title="Research Labs">
-      <outline type="rss" text="Anthropic" title="Anthropic" xmlUrl="https://www.anthropic.com/news/rss.xml" htmlUrl="https://www.anthropic.com/research"/>
+      <outline type="rss" text="Anthropic Research" title="Anthropic Research" xmlUrl="https://raw.githubusercontent.com/marek5050/awesome-ai-engineering-blogs/main/feeds/anthropic-research.xml" htmlUrl="https://www.anthropic.com/research"/>
       <outline type="rss" text="DeepMind" title="DeepMind" xmlUrl="https://deepmind.google/blog/rss.xml" htmlUrl="https://deepmind.google/discover/blog/"/>
       <outline type="rss" text="Google Research" title="Google Research" xmlUrl="https://research.google/blog/rss/" htmlUrl="https://research.google/blog/"/>
       <outline type="rss" text="Meta AI" title="Meta AI" xmlUrl="https://ai.meta.com/blog/rss/" htmlUrl="https://ai.meta.com/blog/"/>
       <outline type="rss" text="Microsoft Research" title="Microsoft Research" xmlUrl="https://www.microsoft.com/en-us/research/feed/" htmlUrl="https://www.microsoft.com/en-us/research/blog/"/>
-      <outline type="rss" text="OpenAI" title="OpenAI" xmlUrl="https://openai.com/blog/rss.xml" htmlUrl="https://openai.com/blog"/>
-      <outline type="rss" text="Allen Institute for AI" title="Allen Institute for AI" xmlUrl="https://allenai.org/blog/rss.xml" htmlUrl="https://allenai.org/blog"/>
+      <outline type="rss" text="OpenAI" title="OpenAI" xmlUrl="https://openai.com/news/rss.xml" htmlUrl="https://openai.com/news"/>
+      <outline type="rss" text="Allen Institute for AI" title="Allen Institute for AI" xmlUrl="https://allenai.org/rss.xml" htmlUrl="https://allenai.org/blog"/>
     </outline>
     <outline text="AI Companies" title="AI Companies">
       <outline type="rss" text="Cohere" title="Cohere" xmlUrl="https://cohere.com/blog/rss.xml" htmlUrl="https://cohere.com/blog"/>
       <outline type="rss" text="Hugging Face" title="Hugging Face" xmlUrl="https://huggingface.co/blog/feed.xml" htmlUrl="https://huggingface.co/blog"/>
-      <outline type="rss" text="Mistral AI" title="Mistral AI" xmlUrl="https://mistral.ai/news/rss.xml" htmlUrl="https://mistral.ai/news/"/>
+      <outline type="rss" text="Mistral AI" title="Mistral AI" xmlUrl="https://mistral.ai/rss.xml" htmlUrl="https://mistral.ai/news/"/>
     </outline>
     <outline text="Big Tech ML" title="Big Tech ML">
       <outline type="rss" text="Amazon Science" title="Amazon Science" xmlUrl="https://www.amazon.science/index.rss" htmlUrl="https://www.amazon.science/blog"/>
@@ -25,12 +25,12 @@
     </outline>
     <outline text="Engineering Blogs (Applied ML)" title="Engineering Blogs (Applied ML)">
       <outline type="rss" text="Airbnb Engineering" title="Airbnb Engineering" xmlUrl="https://medium.com/feed/airbnb-engineering/tagged/data-science" htmlUrl="https://medium.com/airbnb-engineering/tagged/data-science"/>
-      <outline type="rss" text="Etsy Code as Craft" title="Etsy Code as Craft" xmlUrl="https://www.etsy.com/codeascraft/feed" htmlUrl="https://www.etsy.com/codeascraft"/>
-      <outline type="rss" text="Instacart Tech" title="Instacart Tech" xmlUrl="https://tech.instacart.com/feed" htmlUrl="https://tech.instacart.com/"/>
+      <outline type="rss" text="Etsy Code as Craft" title="Etsy Code as Craft" xmlUrl="https://www.etsy.com/codeascraft/rss" htmlUrl="https://www.etsy.com/codeascraft"/>
+      <outline type="rss" text="Instacart Tech" title="Instacart Tech" xmlUrl="https://medium.com/feed/tech-at-instacart" htmlUrl="https://tech.instacart.com/"/>
       <outline type="rss" text="LinkedIn Engineering" title="LinkedIn Engineering" xmlUrl="https://www.linkedin.com/blog/engineering/rss.xml" htmlUrl="https://www.linkedin.com/blog/engineering"/>
-      <outline type="rss" text="Lyft Engineering" title="Lyft Engineering" xmlUrl="https://eng.lyft.com/feed" htmlUrl="https://eng.lyft.com/"/>
+      <outline type="rss" text="Lyft Engineering" title="Lyft Engineering" xmlUrl="https://medium.com/feed/lyft-engineering" htmlUrl="https://eng.lyft.com/"/>
       <outline type="rss" text="Meta Engineering" title="Meta Engineering" xmlUrl="https://engineering.fb.com/feed/" htmlUrl="https://engineering.fb.com/category/ml-applications/"/>
-      <outline type="rss" text="Netflix Tech Blog" title="Netflix Tech Blog" xmlUrl="https://netflixtechblog.com/feed" htmlUrl="https://netflixtechblog.com/"/>
+      <outline type="rss" text="Netflix Tech Blog" title="Netflix Tech Blog" xmlUrl="https://medium.com/feed/netflix-techblog" htmlUrl="https://netflixtechblog.com/"/>
       <outline type="rss" text="Pinterest Engineering" title="Pinterest Engineering" xmlUrl="https://medium.com/feed/pinterest-engineering" htmlUrl="https://medium.com/pinterest-engineering"/>
       <outline type="rss" text="Shopify Engineering" title="Shopify Engineering" xmlUrl="https://shopify.engineering/blog.atom" htmlUrl="https://shopify.engineering/"/>
       <outline type="rss" text="Slack Engineering" title="Slack Engineering" xmlUrl="https://slack.engineering/feed/" htmlUrl="https://slack.engineering/"/>
@@ -41,7 +41,7 @@
     </outline>
     <outline text="ML Infrastructure &amp; Tooling" title="ML Infrastructure &amp; Tooling">
       <outline type="rss" text="Databricks" title="Databricks" xmlUrl="https://www.databricks.com/feed" htmlUrl="https://www.databricks.com/blog"/>
-      <outline type="rss" text="LangChain" title="LangChain" xmlUrl="https://blog.langchain.dev/rss/" htmlUrl="https://blog.langchain.dev/"/>
+      <outline type="rss" text="LangChain" title="LangChain" xmlUrl="https://www.langchain.com/blog/rss.xml" htmlUrl="https://www.langchain.com/blog"/>
       <outline type="rss" text="Pinecone" title="Pinecone" xmlUrl="https://www.pinecone.io/blog/rss.xml" htmlUrl="https://www.pinecone.io/blog/"/>
       <outline type="rss" text="Weaviate" title="Weaviate" xmlUrl="https://weaviate.io/blog/rss.xml" htmlUrl="https://weaviate.io/blog"/>
     </outline>
@@ -50,12 +50,12 @@
       <outline type="rss" text="Chip Huyen" title="Chip Huyen" xmlUrl="https://huyenchip.com/feed.xml" htmlUrl="https://huyenchip.com/blog/"/>
       <outline type="rss" text="Christopher Olah" title="Christopher Olah" xmlUrl="https://colah.github.io/rss.xml" htmlUrl="https://colah.github.io/"/>
       <outline type="rss" text="Eugene Yan" title="Eugene Yan" xmlUrl="https://eugeneyan.com/rss/" htmlUrl="https://eugeneyan.com/"/>
-      <outline type="rss" text="Gwern" title="Gwern" xmlUrl="https://gwern.net/index.xml" htmlUrl="https://gwern.net/"/>
+      <outline type="rss" text="Gwern" title="Gwern" xmlUrl="https://gwern.substack.com/feed" htmlUrl="https://gwern.net/"/>
       <outline type="rss" text="Hamel Husain" title="Hamel Husain" xmlUrl="https://hamel.dev/index.xml" htmlUrl="https://hamel.dev/"/>
       <outline type="rss" text="Jay Alammar" title="Jay Alammar" xmlUrl="https://jalammar.github.io/feed.xml" htmlUrl="https://jalammar.github.io/"/>
       <outline type="rss" text="Lilian Weng" title="Lilian Weng" xmlUrl="https://lilianweng.github.io/index.xml" htmlUrl="https://lilianweng.github.io/"/>
       <outline type="rss" text="Sebastian Raschka" title="Sebastian Raschka" xmlUrl="https://magazine.sebastianraschka.com/feed" htmlUrl="https://magazine.sebastianraschka.com/"/>
-      <outline type="rss" text="Sebastian Ruder" title="Sebastian Ruder" xmlUrl="https://www.ruder.io/rss/index.rss" htmlUrl="https://www.ruder.io/"/>
+      <outline type="rss" text="Sebastian Ruder" title="Sebastian Ruder" xmlUrl="https://www.ruder.io/rss/" htmlUrl="https://www.ruder.io/"/>
       <outline type="rss" text="Simon Willison" title="Simon Willison" xmlUrl="https://simonwillison.net/atom/everything/" htmlUrl="https://simonwillison.net/"/>
       <outline type="rss" text="Stephen Wolfram" title="Stephen Wolfram" xmlUrl="https://writings.stephenwolfram.com/feed/" htmlUrl="https://writings.stephenwolfram.com/"/>
     </outline>
