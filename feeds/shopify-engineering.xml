@@ -5,9 +5,16 @@
     <link>https://shopify.engineering/authors/shopify-engineering</link>
     <description>Posts authored by Shopify Engineering on shopify.engineering.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jun 2026 13:06:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 13:00:17 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/marek5050/awesome-ai-engineering-blogs/main/feeds/shopify-engineering.xml" rel="self" type="application/rss+xml" />
     <generator>awesome-ai-engineering-blogs</generator>
+    <item>
+      <title>Clustering billions of products for agentic commerce with Catalog API</title>
+      <link>https://shopify.engineering/catalog-clustering</link>
+      <guid isPermaLink="true">https://shopify.engineering/catalog-clustering</guid>
+      <pubDate>Wed, 17 Jun 2026 16:54:51 +0000</pubDate>
+      <description>Building an LLM-powered pipeline to match product listings across millions of merchants into a unified catalog that AI agents can search.</description>
+    </item>
     <item>
       <title>Quick: An internal hosting platform for the AI era</title>
       <link>https://shopify.engineering/quick</link>
@@ -338,13 +345,6 @@
       <guid isPermaLink="true">https://shopify.engineering/what-being-a-staff-developer-means-at-shopify</guid>
       <pubDate>Wed, 29 Mar 2023 14:00:01 +0000</pubDate>
       <description>A staff developer is an adaptable engineering leader that's comfortable working with ambiguity.</description>
-    </item>
-    <item>
-      <title>Supporting Passkeys in Shop's Authentication Flows</title>
-      <link>https://shopify.engineering/supporting-passkeys-in-shop-authentication-flows</link>
-      <guid isPermaLink="true">https://shopify.engineering/supporting-passkeys-in-shop-authentication-flows</guid>
-      <pubDate>Fri, 24 Mar 2023 13:00:01 +0000</pubDate>
-      <description>Passkeys are a new login credential based on public-key cryptography that replace the need for username and password sign-ins.</description>
     </item>
   </channel>
 </rss>
