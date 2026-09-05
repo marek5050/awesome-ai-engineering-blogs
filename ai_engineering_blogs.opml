@@ -78,6 +78,7 @@
       <outline type="rss" text="Stephen Wolfram" title="Stephen Wolfram" xmlUrl="https://writings.stephenwolfram.com/feed/" htmlUrl="https://writings.stephenwolfram.com/"/>
     </outline>
     <outline text="Newsletters" title="Newsletters">
+      <outline type="rss" text="AI Weekly" title="AI Weekly" xmlUrl="https://aiweekly.co/feed" htmlUrl="https://aiweekly.co/"/>
       <outline type="rss" text="Import AI" title="Import AI" xmlUrl="https://importai.substack.com/feed" htmlUrl="https://importai.substack.com/"/>
       <outline type="rss" text="Interconnects" title="Interconnects" xmlUrl="https://www.interconnects.ai/feed" htmlUrl="https://www.interconnects.ai/"/>
       <outline type="rss" text="Last Week in AI" title="Last Week in AI" xmlUrl="https://lastweekin.ai/feed" htmlUrl="https://lastweekin.ai/"/>

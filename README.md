@@ -137,6 +137,7 @@ platform, infra, and tooling work.
 ## Newsletters & Aggregators
 
 - [Ahead of AI — Sebastian Raschka](https://magazine.sebastianraschka.com/) — Monthly LLM research recap ([RSS](https://magazine.sebastianraschka.com/feed))
+- [AI Weekly](https://aiweekly.co/) — Models, agents, policy, and research ranked from expert signals ([RSS](https://aiweekly.co/feed))
 - [Import AI — Jack Clark](https://importai.substack.com/) — Weekly research + policy roundup ([RSS](https://importai.substack.com/feed))
 - [Interconnects — Nathan Lambert](https://www.interconnects.ai/) — Frontier models, RLHF, post-training ([RSS](https://www.interconnects.ai/feed))
 - [Last Week in AI](https://lastweekin.ai/) — Weekly research + industry digest ([RSS](https://lastweekin.ai/feed))
